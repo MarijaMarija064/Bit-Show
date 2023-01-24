@@ -1,0 +1,22 @@
+.cast-grid {
+  display: flex;
+  overflow-x: scroll;
+  img {
+    width: 150px;
+  }
+}
+
+.view-toggle-btn {
+  border: none;
+  padding: 5px;
+}
+
+.cast-section-list {
+  img {
+    width: 20px;
+    height: 20px;
+  }
+  overflow-y: scroll;
+  width: 25%;
+  height: 200px;
+}
